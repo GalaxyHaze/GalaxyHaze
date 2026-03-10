@@ -16,7 +16,7 @@ int main(){
   std::uint16_t howManyWorksDone = 0;
   std::uint16_t yearsFromEndingSchool = 2;
 
-  std::String workingNow = "Nova";
+  std::String workingNow = "Kalidous";
 
   std::String whatAmI = "a random programmer lost in the forest";
   std::String whatILike = "void*";
