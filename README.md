@@ -11,7 +11,7 @@ int main(){
   codeLanguageLearned[0] = ("C++");
   codeLanguageLearned[1] = ("C");
   codeLanguageLearned[2] = ("Java");
-  codeLanguageLearned[3] = ("Nova");
+  codeLanguageLearned[3] = ("Kalidous");
 
   std::uint16_t howManyWorksDone = 0;
   std::uint16_t yearsFromEndingSchool = 2;
