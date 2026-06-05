@@ -1,26 +1,25 @@
 <h2>GalaxyHaze</h2>
 
-```C++
-#include <iostream>
-#include <array>
+```Zith
+from std/io/console;
 
 int main(){
-  std::String[2] pronouns= {"he", "him"};
+  let pronouns: [2]string = {"he", "him"};
 
-  std::array<String,3> codeLanguageLearned;
+  let codeLanguageLearned: [_]string;
   codeLanguageLearned[0] = ("C++");
   codeLanguageLearned[1] = ("C");
   codeLanguageLearned[2] = ("Java");
 
-  std::uint16_t howManyWorksDone = 0;
-  std::uint16_t yearsFromEndingSchool = 2;
+  let howManyWorksDone: u8 = 0;
+  let yearsFromEndingSchool: u8 = 2;
 
-  std::String workingNow = "Zith -  
+  let workingNow = "Zith -  
   programming language";
 
-  std::String whatAmI = "a random programmer
+  let whatAmI = "a random programmer
   lost in the forest";
-  std::String whatILike = "void*, compiller
+  let whatILike = "void*, compiller
   goths, food";
 }
 ```
