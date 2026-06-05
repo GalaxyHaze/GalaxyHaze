@@ -3,7 +3,7 @@
 ```Zith
 from std/io/console;
 
-int main(){
+fn main(){
   let pronouns: [2]string = {"he", "him"};
 
   let codeLanguageLearned: [_]string;
